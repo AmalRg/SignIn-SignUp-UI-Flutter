@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-https://github.com/AmalRg/SignIn-SignUp-UI-Flutter/assets/137056001/0ffd7684-ca5a-4cd5-8936-54de0f6a201f
+https://github.com/AmalRg/SignIn-SignUp-UI-Flutter/assets/137056001/bd6d23e9-9f89-493f-a3ed-2c181847d355
 
 
 ## Getting Started
