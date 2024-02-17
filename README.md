@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+https://github.com/AmalRg/SignIn-SignUp-UI-Flutter/assets/137056001/2e463c1a-bb47-405a-97d9-e53a479acf3e
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
